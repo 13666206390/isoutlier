@@ -57,7 +57,7 @@ public class detect {
         }
     }
 
-    /**
+    /**1
      * 计算每个点的可达距离
      * @param kdAndKnList
      */
